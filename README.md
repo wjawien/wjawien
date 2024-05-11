@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on quantum computing
 - 📫 How to reach me - use notification
 - 😄 Pronouns: he
-- ⚡ Fun fact: Wait a while. Surely something fun happen soon.
+- ⚡ Fun fact: Wait a while. Surely something fun would happen soon.
 
 <!---
 wjawien/wjawien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
