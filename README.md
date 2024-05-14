@@ -2,7 +2,7 @@
 - 👀 I’m interested in math, physics and IT, and their application in pharmacology
 - 🌱 I’m currently exploring basics of dwave-ocean
 - 💞️ I’m looking to collaborate on quantum computing
-- 📫 How to reach me - use notification
+- 📫 How to reach me - email me: wojciech.jawienATuj.edu.pl
 - 😄 Pronouns: he
 - ⚡ Fun fact: Wait a while. Surely something fun would happen soon.
 
